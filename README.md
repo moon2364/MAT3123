@@ -3,8 +3,6 @@
 **final_project 2018143507 박문수** 
 
 ## 목차
-- [MAT3123](#mat3123)
-  - [목차](#목차)
   - [1.개요](#1개요)
   - [2.setup\_environment](#2setup_environment)
   - [3.data\_fetch](#3data_fetch)
